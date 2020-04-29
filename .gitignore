@@ -1,0 +1,4 @@
+/tasks/emails
+.idea
+node_modules
+bin/
